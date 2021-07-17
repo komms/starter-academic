@@ -14,11 +14,14 @@ organizations:
   url: https://arrival.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include robotics, deep learning, computer vision.
+#bio: My interests include robotics, deep learning, computer vision.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
+- Robotics
+- Deep Learning
+- Computer Vision
 
 # Education to show in About widget
 education:
