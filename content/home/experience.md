@@ -28,7 +28,7 @@ experience:
     location: Berlin
     date_start: '2021-10-15'
     date_end: ''       
-  - title: Student Assistant
+  - title: Student Research Assistant
     company: University of Siegen
     company_url: 'https://www.uni-siegen.de/start/'
     location: Siegen
