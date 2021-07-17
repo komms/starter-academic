@@ -33,7 +33,7 @@ experience:
     company_url: 'https://www.uni-siegen.de/start/'
     location: Siegen
     date_start: '2018-10-01'
-    date_end: '2019-09-31'
+    date_end: '2019-09-30'
     description: Worked on detecting pose of a soft gripper.
 
 design:
