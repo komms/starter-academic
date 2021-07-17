@@ -26,7 +26,7 @@ experience:
     company: Arrival
     company_url: 'https://arrival.com/'
     location: Berlin
-    date_start: '2021-10-15'
+    date_start: '2019-10-15'
     date_end: ''       
   - title: Student Research Assistant
     company: University of Siegen
