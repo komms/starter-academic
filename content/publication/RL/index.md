@@ -14,6 +14,8 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-05-29"
 doi: ""
@@ -50,13 +52,3 @@ url_code: 'https://github.com/arrival-ltd/catalyst-rl-tutorial'
 url_project: 'https://medium.com/pytorch/robotic-assembly-using-deep-reinforcement-learning-dfd9916c5ad7'
 url_video: 'https://www.youtube.com/watch?v=qOtFIL3aHDg'
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
