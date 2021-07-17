@@ -25,21 +25,13 @@ experience:
   - title: Junior Computer Vision Engineer
     company: Arrival
     company_url: 'https://arrival.com/'
-    # company_logo: org-gc
     location: Berlin
     date_start: '2021-10-15'
     date_end: ''
-    #description: |2-
-     #   Responsibilities include:
-        
-     #   * Analysing
-     #   * Modelling
-     #   * Deploying
         
   - title: Student Assistant
     company: University of Siegen
     company_url: 'https://www.uni-siegen.de/start/'
-    # company_logo: org-x
     location: Siegen
     date_start: '2018-10-01'
     date_end: '2019-09-31'
